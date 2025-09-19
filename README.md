@@ -15,9 +15,14 @@
 
 - ⚙️ 配置别名（推荐）
 bash
+
 echo "alias k8s='~/path/to/k8s-manager.sh'" >> ~/.bashrc
+
 echo "export EDITOR=vim" >> ~/.bashrc
+
 source ~/.bashrc
+
+
 
 MIT License 
 
