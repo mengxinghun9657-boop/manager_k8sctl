@@ -43,7 +43,7 @@
 ### 1. 下载脚本
 
 ```bash
-curl -LO https://github.com/mengxinghun9657/manager_k8sctl/raw/main/manager_k8sctl.sh
+curl -LO https://github.com/mengxinghun9657-boop/manager_k8sctl.git
 chmod +x manager_k8sctl.sh
 
 
